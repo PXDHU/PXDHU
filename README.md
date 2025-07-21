@@ -21,7 +21,7 @@ me.say_hi()
 
 I'm a **Co-Founder at OXLAC TECH** and an AI/ML enthusiast who loves turning complex problems into elegant solutions. Currently pursuing my B.Tech in CSE with AI/ML specialization at VIT Chennai, I spend my time building intelligent systems, experimenting with LLMs, and creating applications that make a real difference.
 
-When I'm not coding, you'll find me exploring the latest AI research papers or working on my next breakthrough project! 🔬
+When I’m not coding, I’m either turning caffeine into code, binge-watching tech YouTube rabbit holes, or brainstorming my next “Why didn’t anyone build this yet?” idea ⚡🧃
 
 ---
 
@@ -46,13 +46,14 @@ When I'm not coding, you'll find me exploring the latest AI research papers or w
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ### **Cloud & MLOps**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### **Web Development**
@@ -129,9 +130,17 @@ const currentlyWorking = {
 ---
 
 ```python
-# Thanks for scrolling this far! Here's a little secret:
-def easter_egg():
-    return "🥚 You found the hidden message! DM me 'EASTER_EGG' for a surprise! 🎁"
+# 🤫 Psst... you’ve just unlocked Dev Mode
+import random
 
-print(easter_egg())
+def secret_terminal():
+    easter_eggs = [
+        "🎉 Surprise unlocked! DM me 'sudo:gift' for a hidden repo drop!",
+        "🕹️ You found the cheat code! DM 'AI_GODMODE' to enable it!",
+        "💡 Here's your bonus tip: Never deploy on Fridays 🚫🧑‍🚒",
+        "📦 Initiating AI payload… Just kidding. Or am I?"
+    ]
+    return random.choice(easter_eggs)
+
+print(secret_terminal())
 ```
