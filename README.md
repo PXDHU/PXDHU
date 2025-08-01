@@ -97,8 +97,7 @@ const currentlyWorking = {
     🔭: "Building next-gen AI solutions at OXLAC TECH",
     🌱: "Exploring LangGraph and advanced RAG systems",
     👯: "Looking to collaborate on innovative AI projects",
-    💬: "Ask me about AI, ML, Computer Vision, or LLMs",
-    ⚡: "Fun fact: I can predict F1 race outcomes! 🏎️"
+    💬: "Ask me about AI, ML, Computer Vision, or LLMs"
 }
 ```
 
