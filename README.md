@@ -4,10 +4,9 @@
 class AIEngineer:
     def __init__(self):
         self.name = "Padmavasan Balakrishnan"
-        self.role = "AI/ML Engineer & Co-Founder"
+        self.role = "AI/ML Engineer"
         self.location = "Chennai, India 🇮🇳"
         self.education = "VIT Chennai - AI/ML Specialization"
-        self.company = "OXLAC TECH LLP"
         self.passion = ["Building AI Solutions", "Computer Vision", "LLMs"]
         
     def say_hi(self):
@@ -19,7 +18,7 @@ me.say_hi()
 
 ## 🧠 About Me
 
-I'm a **Co-Founder at OXLAC TECH** and an AI/ML enthusiast who loves turning complex problems into elegant solutions. Currently pursuing my B.Tech in CSE with AI/ML specialization at VIT Chennai, I spend my time building intelligent systems, experimenting with LLMs, and creating applications that make a real difference.
+I'm an AI/ML enthusiast who loves turning complex problems into elegant solutions. Currently pursuing my B.Tech in CSE with AI/ML specialization at VIT Chennai, I spend my time building intelligent systems, experimenting with LLMs, and creating applications that make a real difference.
 
 When I’m not coding, I’m either turning caffeine into code, binge-watching tech YouTube rabbit holes, or brainstorming my next “Why didn’t anyone build this yet?” idea ⚡🧃
 
