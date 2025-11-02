@@ -6,7 +6,7 @@ class AIEngineer:
         self.name = "Padmavasan Balakrishnan"
         self.role = "AI/ML Engineer"
         self.location = "Chennai, India 🇮🇳"
-        self.education = "VIT Chennai - AI/ML Specialization"
+        self.education = "VIT Chennai - CSE AI/ML Specialization"
         self.passion = ["Building AI Solutions", "Computer Vision", "LLMs"]
         
     def say_hi(self):
@@ -20,7 +20,7 @@ me.say_hi()
 
 I'm an AI/ML enthusiast who loves turning complex problems into elegant solutions. B.Tech in CSE with AI/ML specialization Graduate at VIT Chennai, I spend my time building intelligent systems, reading research papers, experimenting with LLMs, and creating applications that make a real difference.
 
-When I’m not coding, I’m either turning caffeine into code, binge-watching tech YouTube rabbit holes, or brainstorming my next “Why didn’t anyone build this yet?” idea ⚡🧃
+Continuously learning, innovating, and pushing the boundaries of what AI can achieve. ⚡🧃
 
 ---
 
@@ -151,19 +151,3 @@ const currentlyWorking = {
 </div>
 
 ---
-
-```python
-# 🤫 Psst... you’ve just unlocked Dev Mode
-import random
-
-def secret_terminal():
-    easter_eggs = [
-        "🎉 Surprise unlocked! DM me 'sudo:gift' for a hidden repo drop!",
-        "🕹️ You found the cheat code! DM 'AI_GODMODE' to enable it!",
-        "💡 Here's your bonus tip: Never deploy on Fridays 🚫🧑‍🚒",
-        "📦 Initiating AI payload… Just kidding. Or am I?"
-    ]
-    return random.choice(easter_eggs)
-
-print(secret_terminal())
-```
