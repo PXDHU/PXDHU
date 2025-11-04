@@ -62,7 +62,7 @@ Continuously learning, innovating, and pushing the boundaries of what AI can ach
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF6C37?style=for-the-badge&logo=mistral&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logo=weaviate&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF7A00?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-6E57E0?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
