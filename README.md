@@ -39,15 +39,15 @@ Continuously learning, innovating, and pushing the boundaries of what AI can ach
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![H2O.ai](https://img.shields.io/badge/H2O.ai-FFD700?style=for-the-badge&logo=H2O.ai&logoColor=black)
+![H2O.ai](https://img.shields.io/badge/H2O.ai-FFD700?style=for-the-badge&logo=h2o.ai&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge&logo=Tesseract&logoColor=white)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -55,13 +55,13 @@ Continuously learning, innovating, and pushing the boundaries of what AI can ach
 ---
 
 ### **LLM & Agentic AI** 🤖
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF6C37?style=for-the-badge&logo=mistral&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF6C37?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logo=weaviate&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-6E57E0?style=for-the-badge&logo=databricks&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-6E57E0?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
