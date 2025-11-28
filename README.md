@@ -103,20 +103,6 @@ Continuously learning, innovating, and pushing the boundaries of what AI can ach
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PXDHU&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PXDHU&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PXDHU&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🌟 What I'm Up To
 
 ```javascript
